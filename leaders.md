@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Michelle Roblero](mailto:robleroworks@gmail.com)
+* [Angel Rios](mailto:angelrios.rd01@gmail.com)
