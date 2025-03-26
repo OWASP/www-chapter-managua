@@ -70,9 +70,3 @@ También te animamos a convertirte en miembro 🧑‍🤝‍🧑 de OWASP o cons
 ## Redes Sociales
 
 📢 *Próximamente estaremos habilitando nuestras redes sociales oficiales.*
-
----
-
-## Próximos Eventos
-
-{% include chapter_events.html group=page.meetup-group %}
