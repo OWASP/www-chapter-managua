@@ -37,7 +37,7 @@ Hablaremos sobre temas como:
 
 - Seguridad en Infraestructura Tecnológica 🏗💡
 
-Nuestros meetings son abiertos al público en general 🚪🎉 -
+Nuestros meetings son abiertos al público en general 🚪🎉
 
 ### Participación 🌐
 
