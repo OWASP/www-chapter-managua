@@ -8,7 +8,7 @@ tags: managua
 ---
 
 <div style="text-align: center;">
-  <img src="/assets/images/event_images/charla-01.jpg" alt="Banner de la charla OWASP ZAP" style="max-width: 100%; border-radius: 8px; box-shadow: 0 0 12px rgba(0,0,0,0.15); margin-bottom: 20px;">
+  <img src="assets\images\charla-01.jpg" alt="Banner de la charla OWASP ZAP" style="max-width: 100%; border-radius: 8px; box-shadow: 0 0 12px rgba(0,0,0,0.15); margin-bottom: 20px;">
 </div>
 
 ## 🚨 Primera Charla Técnica – OWASP Managua
