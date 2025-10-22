@@ -1,0 +1,26 @@
+leaders:
+  - name: Michelle Roblero
+    email: michelle.roblero@owasp.org
+  - name: Angel Rios
+    email: angel.rios@owasp.org
+  - name: Lusiangel Marcia
+    email: luisangel.marcia@owasp.org
+location:
+  country: Nicaragua
+  country_code: NI
+  region: Managua
+  city: Managua
+  postal_code: '11001'
+  latitude: 12.1544035
+  longitude: -86.2737642
+meetup_group: OWASP-Managua
+name: OWASP Managua Chapter
+repositories:
+  - name: www-chapter-managua
+    url: https://github.com/OWASP/www-chapter-managua
+    description: OWASP Foundation web repository
+tags:
+  - managua
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-managua
